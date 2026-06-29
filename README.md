@@ -5,8 +5,8 @@ Projeto Final da disciplina de Grafos.
 - NOME: Jeová Moreira Ferreira Filho
 - RGM: 38914247
 
-- NOME:
-- RGM: 
+- NOME: Gustavo Fernandes
+- RGM: 38365081
 
 ## Funcionalidades
 - Sugestão de conexões
